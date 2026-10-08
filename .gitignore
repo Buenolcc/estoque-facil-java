@@ -1,0 +1,7 @@
+target/
+.vscode/
+.idea/
+*.class
+
+# Arquivo com usuário e senha do banco
+src/main/resources/db.properties
