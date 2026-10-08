@@ -58,4 +58,4 @@ O arquivo `db.properties` está no `.gitignore`, então sua senha não será env
 
 ## Autor
 
-Lucca Machado Bueno
+0buen0t
